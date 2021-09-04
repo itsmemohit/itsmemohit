@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Machine Learning**
 
+- 👯 I’m looking to collaborate on **some open-source projects**
+
 - 🤝 I’m looking for help with [Covid-19 Resources PWA](https://github.com/itsmemohit/Covid-19resources)
 
 - 👨‍💻 Some of my projects are available at [https://mohitdangwal.netlify.app/](https://mohitdangwal.netlify.app/)
@@ -50,4 +52,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmemohit&show_icons=true&locale=en" alt="itsmemohit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmemohit&" alt="itsmemohit" /></p>
-
