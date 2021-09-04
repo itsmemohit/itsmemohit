@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mohitdangwal01@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAEkehdFd_M/3k1xZeuc6IIyFkQCad_ucg/view?utm_content=DAEkehdFd_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAEkehdFd_M/3k1xZeuc6IIyFkQCad_ucg/view?utm_content=DAEkehdFd_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my experiences [https://www.canva.com/design/DAEkehdFd_M/3k1xZeuc6IIyFkQCad_ucg/view?utm_content=DAEkehdFd_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+<!-- - (https://www.canva.com/design/DAEkehdFd_M/3k1xZeuc6IIyFkQCad_ucg/view?utm_content=DAEkehdFd_M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
