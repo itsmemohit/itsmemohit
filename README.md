@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mohit Dangwal</h1>
 <h3 align="center">A 20Y/O Software and Web Developer from India. I am doing Full-Stack Web Development from past 3 years. Being a technology enthusiast, I love to learn new technologies and leverage them to solve real-life problems. I am driven by the will to create an impact. Developed a platform in 1 week at age of 19 which helped covid-19 patients get info. about Oxygen beds, cylinders, ICU beds, mental healthcare facilities, plasma donations, ambulance, and meal service, etc. to support our falling healthcare systems during 2nd Covid-19 wave.</h3>
 
-(https://github.com/itsmemohit/itsmemohit/blob/main/Purple%20Online%20Gamer%20LinkedIn%20Banner.mp4)
+(https://github.com/itsmemohit/itsmemohit/blob/main/Purple%20Online%20Gamer%20LinkedIn%20Banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmemohit&label=Profile%20views&color=0e75b6&style=flat" alt="itsmemohit" /> </p>
 
